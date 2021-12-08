@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OnboardScreen</string>
+    <string name="next">NEXT</string>
+    <string name="customise_the_day">Customise the day</string>
+    <string name="paragraph">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don\'t look even slightly believable.</string>
+    <string name="learn_programming">Learn Programming</string>
+    <string name="paragrah_two">One way many people start learning to code is by picking a popular programming language and jumping in head first with no direction. This could take the form of an online coding course, a tutorial project, or a random book purchase on a specific topic.</string>
+    <string name="angry">Angry</string>
+</resources>
